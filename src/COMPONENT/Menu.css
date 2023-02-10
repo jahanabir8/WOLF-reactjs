@@ -1,0 +1,23 @@
+.logo a {
+    font-size: 80px;
+    color: red;
+    display: inline-block;
+}
+
+.menus ul li {
+    list-style: none;
+    margin-right: 41px;
+}
+
+.menuBar{
+    font-size: 20px;
+    font-weight: 500;
+    display: none;
+}
+
+.menus ul li a{
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+    color: red;
+}
